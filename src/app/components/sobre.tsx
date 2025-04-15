@@ -11,7 +11,7 @@ export default function Sobre() {
           <img
             src="preto.jpg"
             alt="Minha foto"
-            className="w-52 h-52 rounded-full object-cover mx-auto md:mx-0 mb-6 md:mb-0 shadow-lg"
+            className="w-191 h-91 rounded-full object-cover mx-auto md:mx-0 mb-6 md:mb-0 shadow-lg"
           />
         </div>
         <div className='text-orange-200 max-w-xl leading-relaxed'>
