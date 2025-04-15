@@ -3,7 +3,7 @@ import React from 'react'
 export default function Sobre() {
   return (
     <div id='sobre' className='bg-blue-950'>
-      <h1 className=' text-3xl font-bold text-center text-orange-400'>Sobre Mim</h1>
+      <h1 className=' text-3xl font-bold text-center text-orange-400 mb-4' >Sobre Mim</h1>
       <div className=' flex items-center justify-around h-150'> <div>
           <img
               src="preto.jpg" // A imagem deve estar na pasta public
