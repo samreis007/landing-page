@@ -8,7 +8,7 @@ export default function Sobre() {
           <img
               src="preto.jpg" // A imagem deve estar na pasta public
               alt="Minha foto"
-              className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
+              className="w-52 h-52 rounded-full mx-auto mb-4 object-cover"
             />
       </div>
         <div>
