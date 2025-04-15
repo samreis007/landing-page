@@ -17,23 +17,28 @@ const Header = () => {
           <nav>
             <ul className="flex space-x-4">
               <li>
-                <a href="#hero" className="hover:text-gray-300">
+                <a href="#hero" className="text-white hover:text-orange-300">
                   Início
                 </a>
               </li>
               <li>
-                <a href="#skills" className="hover:text-gray-300">
+                <a href="#skills" className="text-white hover:text-orange-300">
                   Habilidades
                 </a>
               </li>
               <li>
-                <a href="#projects" className="hover:text-gray-300">
+                <a href="#projects" className="text-white hover:text-orange-300">
                   Projetos
                 </a>
               </li>
               <li>
-                <a href="#contact" className="hover:text-gray-300">
+                <a href="#contact" className=" text-white hover:text-orange-300">
                   Contato
+                </a>
+              </li>
+              <li>
+                <a href="#sobre" className="text-white hover:text-orange-300">
+                  Sobre mim
                 </a>
               </li>
             </ul>

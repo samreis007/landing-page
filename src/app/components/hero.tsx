@@ -5,7 +5,7 @@ const Hero = () => {
         <img
           src="preto.jpg" // A imagem deve estar na pasta public
           alt="Minha foto"
-          className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
+          className="w-52 h-52 rounded-full mx-auto mb-4 object-cover"
         />
         <h1 className="text-5xl font-bold mb-4">Olá, eu sou Samuel Sputnik</h1>
         <p className="text-xl mb-6">
@@ -20,7 +20,7 @@ const Hero = () => {
         <a
           href="/curriculo.pdf"
           download
-          className="bg-gray-700 text-white px-6 py-3 rounded-full text-lg hover:bg-gray-800 transition ml-4"
+          className="bg-red-500 text-white px-6 py-3 rounded-full text-lg hover:bg-red-800 transition ml-4"
         >
           Baixar Currículo
         </a>
