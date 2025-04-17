@@ -22,6 +22,11 @@ const Header = () => {
                 </a>
               </li>
               <li>
+                <a href="#sobre" className="text-white  hover:text-orange-300 ">
+                  Sobre Mim
+                </a>
+              </li>
+              <li>
                 <a href="#skills" className="text-white hover:text-orange-300">
                   Habilidades
                 </a>
@@ -34,11 +39,6 @@ const Header = () => {
               <li>
                 <a href="#contact" className=" text-white hover:text-orange-300">
                   Contato
-                </a>
-              </li>
-              <li>
-                <a href="#sobre" className="text-white hover:text-orange-300">
-                  Sobre mim
                 </a>
               </li>
             </ul>
